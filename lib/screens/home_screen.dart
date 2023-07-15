@@ -32,7 +32,7 @@ class HomeScreen extends StatelessWidget {
                     Text('Sebastian Smith', style: TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold)),
                     SizedBox(height: 5.0,),
                     Container(
-                      child: Text('New playback singer', style: TextStyle(fontSize: 15.0),)
+                      child: Text('New playground', style: TextStyle(fontSize: 15.0),)
                     ),
                     SizedBox(height: 20.0),
                     Row(
